@@ -4,9 +4,9 @@ This repository contains **Practical 2** for XML Schema (XSD) validation, demons
 
 ## Files
 
-- **`enrollment.xsd`** — The XML Schema Definition file that defines the structure, elements, attributes, and data types for the student enrollment data.
-- **`enrollment.xml`** — A valid XML document that conforms to the `enrollment.xsd` schema.
-- **`enrollment_invalid.xml`** — An XML document with intentional errors, used to test and demonstrate schema validation failures.
+- **`enrollment.xsd`** : The XML Schema Definition file that defines the structure, elements, attributes, and data types for the student enrollment data.
+- **`enrollment.xml`** : A valid XML document that conforms to the `enrollment.xsd` schema.
+- **`enrollment_invalid.xml`** : An XML document with intentional errors, used to test and demonstrate schema validation failures.
 
 ## About
 
