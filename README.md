@@ -1,22 +1,17 @@
 # XSD Schema Validation - Student Enrollment
 
-This repository contains **Practical 2** for XML Schema (XSD) validation, demonstrating how an XML document is validated against a defined XSD schema for a student enrollment system.
+This is my Practical 2 assignment where I created an XSD schema to validate student enrollment data in XML format.
 
-## Files
+## What's in this repo
 
-- **`enrollment.xsd`** : The XML Schema Definition file that defines the structure, elements, attributes, and data types for the student enrollment data.
-- **`enrollment.xml`** : A valid XML document that conforms to the `enrollment.xsd` schema.
-- **`enrollment_invalid.xml`** : An XML document with intentional errors, used to test and demonstrate schema validation failures.
+- `enrollment.xsd` : the schema file that defines how the student enrollment data should be structured
+- `enrollment.xml` : a valid XML file that follows the schema correctly
+- `enrollment_invalid.xml` : a sample file with errors, used to check if the schema validation is actually catching mistakes
 
-## About
+## What this does
 
-This project shows how XSD is used to enforce structure and data validation rules on XML documents, ensuring that data (like student enrollment records) follows a consistent and predictable format.
+Basically XSD is used to set rules for how an XML file should look - what elements it should have, what data types, what's required, etc. I made a schema for student enrollment records and tested it with both a correct file and a wrong one to make sure the validation works properly.
 
-## Tech Used
-
-- XML
-- XSD (XML Schema Definition)
-
-## Author
+## Made by
 
 Bhumika Rathod
