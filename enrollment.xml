@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="enrollment.xsd">
+  <name>Bhumika Rathod</name>
+  <dept>Computer Science Engineering</dept>
+  <id>101</id>
+  <course>Advanced Database Management Systems</course>
+  <course>Cryptography</course>
+  <course>Front-end UI Design and Development</course>
+</student>
